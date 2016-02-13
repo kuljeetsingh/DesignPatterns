@@ -1,2 +1,2 @@
-# Template for propert search website
-Templat efor property listing and search website
+# Template for property search website
+Template for property listing and search website
